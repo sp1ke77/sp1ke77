@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+CEO @ MEGACONCEPTS.net
+Senior Consultant @ ADENTIS S.A.
+
 <!--
 **sp1ke77/sp1ke77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
