@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-CEO @ MEGACONCEPTS.net
+CEO @ MEGACONCEPTS.net<br>
 Senior Consultant @ ADENTIS S.A.
 
 <!--
