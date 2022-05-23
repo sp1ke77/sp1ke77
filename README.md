@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/sp1ke77"><img src="https://api.daily.dev/devcards/e61c8d99f367402392223d293cd202fe.png?r=uql" width="400" alt="Isaque Fernandes's Dev Card"/></a>
