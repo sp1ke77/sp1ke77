@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<a href="https://app.daily.dev/sp1ke77"><img src="https://api.daily.dev/devcards/e61c8d99f367402392223d293cd202fe.png?r=uql" width="400" alt="Isaque Fernandes's Dev Card"/></a>
+<iframe id='kofiframe' src='https://ko-fi.com/sp1ke77/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='sp1ke77'></iframe>
