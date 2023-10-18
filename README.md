@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 -->
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V3G5VKA)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cloudflare,git,github,gitlab,linux,mysql,nodejs,php,react,vscode,wordpress)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,cloudflare,git,github,gitlab,linux,mysql,nodejs,php,react,vscode,wordpress)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sp1ke77&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp1ke77)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp1ke77)
